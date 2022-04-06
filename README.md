@@ -20,5 +20,6 @@ We will use Leaflet and Mapbox API to retrieve GeoJson earthquake and tectonic d
 ![image](https://user-images.githubusercontent.com/93121665/161927263-fb095577-e8a9-4dec-b44d-09e0a7111607.png)
 
 ### Add earthquake data sets and tectonic plate:
+![image](https://user-images.githubusercontent.com/93121665/161927469-fec027f4-8aae-4937-89bb-ff92495c9f19.png)
 
 ### Add Mapbox styles:

@@ -23,3 +23,4 @@ We will use Leaflet and Mapbox API to retrieve GeoJson earthquake and tectonic d
 ![image](https://user-images.githubusercontent.com/93121665/161927469-fec027f4-8aae-4937-89bb-ff92495c9f19.png)
 
 ### Add Mapbox styles:
+![image](https://user-images.githubusercontent.com/93121665/161927672-dc80d5da-4ec1-4b84-bddd-27799e7b1d42.png)

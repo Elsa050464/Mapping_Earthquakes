@@ -10,13 +10,15 @@ Create a branch from the main branch on GitHub. Add, commit, and push data to a 
 5.	Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps.
 6.	Render maps on a local server.
 ### GeoJson
-•	Points that contain addresses and locations e.g. latitudes and longitudes coordinates
-•	Linestings which contains boundaries of streets and highways travel routes and tectonic plates 
-•	Polygons which contain coordinates for the boundaries of zipcodes, counties, provinces and tracts of lands 
+*	Points that contain addresses and locations e.g. latitudes and longitudes coordinates
+* Linestings which contains boundaries of streets and highways travel routes and tectonic plates 
+* Polygons which contain coordinates for the boundaries of zipcodes, counties, provinces and tracts of lands 
 
 We will use Leaflet and Mapbox API to retrieve GeoJson earthquake and tectonic data
 ## Results:
 ### Creating the overlays and controls:
+![image](https://user-images.githubusercontent.com/93121665/161927263-fb095577-e8a9-4dec-b44d-09e0a7111607.png)
 
 ### Add earthquake data sets and tectonic plate:
+
 ### Add Mapbox styles:
